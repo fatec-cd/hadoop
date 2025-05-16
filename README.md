@@ -1,5 +1,5 @@
 # Roteiro de Pesquisa + Preparação de Apresentação
-**Tema:** _Introdução ao Hadoop_  
+**Tema:** _Hadoop_  
 **Formato:** Grupos de até **3** participantes  
 **Tempo para realizar a tarefa:** **1 hora** (excluindo a apresentação)  
 **Produto final:** apresentação de **5–7 min**, preferencialmente em até **10 slides**
@@ -42,7 +42,7 @@
    - **MapReduce** (JobTracker → Map / Reduce tasks)  
 4. **Fluxo de Processamento Simplificado** – 4 passos com ícones (ingestão → armazenamento → processamento → resultado)  
 5. **Ecossistema ao Redor** – tabela pequena (Hive, Pig, HBase, Oozie, Spark on YARN)  
-6. **Casos de Uso** – 2 exemplos reais (p. ex. análise de logs web; processamento de dados de sensores IoT)  
+6. **Casos de Uso** – 2 exemplos reais  
 7. **Benefícios Práticos** – escalabilidade horizontal, tolerância a falhas, uso de hardware comum  
 8. **Conclusão** – insight final + “próximos passos” de estudo  
 9. **Referências** – links curtos (documentação Apache, artigos, vídeos YouTube ≤ 10 min)
